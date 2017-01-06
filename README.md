@@ -1,7 +1,7 @@
 # nanomailprotect
 Tiny Wordpress plugin to obfuscate your mail address and decode with JavaScript.
 
-# Description
+## Description
 Tiny plugin that adds a [mailprotect] shortcode. It removes any at signs and dots
 in the tag's content with " (remove this) at " and " dot ", making it look like
 a normal part of a sentence, so 
